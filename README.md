@@ -66,3 +66,6 @@
 
 > It was a output of molecules in pdb format. However, since the pdb format has been adjusted, VMD cannot open the output pdb file anymore. If there is a chance, it will be adjusted.
 
+### Understanding of the Program
+
+> Chapter 5 of the thesis interprets the program architecutre and parameters
