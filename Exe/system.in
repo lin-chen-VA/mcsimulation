@@ -1,0 +1,11 @@
+cycle 1000000
+insertNumber 350
+timeAnalysis 0
+moleculeNumberPlot 1
+moleculeNumberPlotStep 100
+checkFullEnergy 0
+checkFullEnergyStep 1000
+mediaOutput 1
+mediaOutputStep 1000
+grPlot 0
+grStep 1000
